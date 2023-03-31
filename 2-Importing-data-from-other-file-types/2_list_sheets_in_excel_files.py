@@ -17,4 +17,4 @@ file = 'battledeath.xlsx'
 xl = pd.ExcelFile(file)
 
 # Print sheet names
-print(xl.sheet_names)
+print(xls.sheet_names)
